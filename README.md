@@ -7,6 +7,7 @@ Due to the Uno R4 Wifi capability, the base station will only require 2 componen
 1. An Arduino Motor Shield.
 
 # Disclaimer
+> <b>:warning: This software comes with no warranty</b>
 
 This is work in progress. Currently the develop branch contains an alpha version of the base station. It has not been deeply tested.
 
